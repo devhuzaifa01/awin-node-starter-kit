@@ -1,0 +1,3 @@
+// Awin service
+
+module.exports = {};
